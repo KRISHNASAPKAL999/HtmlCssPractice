@@ -112,7 +112,7 @@ HtmlCssPractice/
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/KRISHNASAPKAL999/HtmlCssPractice.git
    ```
 
 2. Navigate to the specific project folder:
@@ -128,9 +128,6 @@ HtmlCssPractice/
 ## 👨‍💻 Author
 
 Created with ❤️ by Krishna
-
-- GitHub: [https://github.com/KRISHNASAPKAL999](#)
-- LinkedIn: [https://www.linkedin.com/in/krishna-sapkal-3a27a6289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ](#)
 
 ## 📄 License
 
