@@ -107,21 +107,12 @@ HtmlCssPractice/
 <!-- Insert screenshot here. Example: -->
 ![Project 5 Screenshot](project.5/image/logo.png)
 
-## 🌐 Live Demo
-
-Check out the live demos of each project:
-
-- [Project 1: Antique Flower Pot](#)
-- [Project 2: Job Application Form](#)
-- [Project 3: Parallax Website](#)
-- [Project 4: Full Stack Developer Portfolio](#)
-- [Project 5: Food Delivery Website](#)
 
 ## 🚀 How to Use
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/HtmlCssPractice.git
+   git clone 
    ```
 
 2. Navigate to the specific project folder:
@@ -138,9 +129,8 @@ Check out the live demos of each project:
 
 Created with ❤️ by Krishna
 
-- GitHub: [Your GitHub Profile](#)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Portfolio: [Your Portfolio Website](#)
+- GitHub: [https://github.com/KRISHNASAPKAL999](#)
+- LinkedIn: [https://www.linkedin.com/in/krishna-sapkal-3a27a6289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ](#)
 
 ## 📄 License
 
